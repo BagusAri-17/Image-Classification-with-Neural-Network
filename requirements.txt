@@ -1,0 +1,6 @@
+numpy==1.23.3
+streamlit
+pickle
+scikit-image
+opencv
+pip==23.0.1
